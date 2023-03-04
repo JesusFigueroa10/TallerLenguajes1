@@ -20,3 +20,55 @@ body {
     margin-left: 0;
     margin-right: 0;
 }
+
+.imagen1 {
+    text-align: center;
+    height: 350px;
+    margin-left: 270px;
+    margin-top: 20px;
+    margin-right: 200px;
+    margin-bottom: 20px;  
+}
+
+.imagen2 {
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 330px;
+    width: 3000px;
+}
+
+p {
+    text-align: justify;
+  }
+
+.btn {
+    margin-top: 8px;
+    margin-left: 620px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: red;
+}
+
+.texto-btn {
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;   
+}
+
+.texto {
+    margin-top: 10px;
+    width: 700px;
+    word-wrap: break-word;
+}
+
+.borde {
+    border-style: solid;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 120px;
+}
