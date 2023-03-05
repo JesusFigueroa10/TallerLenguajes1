@@ -41,22 +41,22 @@ p {
     text-align: justify;
   }
 
-.btn {
+button {
+    font-size: 25px;
+    padding: 5px 25px 5px 25px;
+    outline: none;
+    color: white;
+    border-radius: 20px;
     margin-top: 8px;
     margin-left: 620px;
     margin-bottom: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
     background-color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.texto-btn {
-    text-align: center;
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;   
+button:hover{
+    background-color: gray;
+    cursor: pointer;
 }
 
 .texto {
